@@ -3,6 +3,7 @@ var keys = require("./keys.js");
 // var spotify = new Spotify(keys.spotify);
 
 var command = process.argv[2];
+///i think i have to use a .slice or .join here? not working on tests
 var subject = process.argv[3];
 
 var request = require('./keys');
@@ -25,13 +26,16 @@ switch (command) {
 
 function bandsInTown() {
     var request = require("request");
-    if (subject == null) {
-        subject = "Butch Walker";
-    }
+    
     request("https://rest.bandsintown.com/artists/" + subject + "/events?app_id=codingbootcamp", function(error, response, body) {
         if (!error && response.statusCode === 200) {
+            var concerts = JSON.parse(body)
             console.log("----------------------");
-            console.log(response);
+            console.log(concerts);
+        for (i = 0; i < 1; i++) {
+            console.log("!! EVENT INFO !!")
+            console.log("Venue Name: ", concerts[0].venue.name);
         }
+    }
     })
 }
