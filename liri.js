@@ -6,7 +6,8 @@ var moment = require('moment');
 moment().format();
 var command = process.argv[2];
 ///i think i have to use a .slice or .join here? not working on tests
-var subject = process.argv[3];
+var subject = process.argv.slice(3).join(" ");
+// var subject = process.argv[3];
 
 var request = require('./keys');
 var fs = require('fs');
