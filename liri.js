@@ -2,7 +2,8 @@ require("dotenv").config();
 var keys = require("./keys.js");
 var Spotify = require('node-spotify-api');
 var spotify = new Spotify(keys.spotify);
-
+var moment = require('moment');
+moment().format();
 var command = process.argv[2];
 ///i think i have to use a .slice or .join here? not working on tests
 var subject = process.argv[3];
@@ -58,6 +59,7 @@ function bandsInTown(subject) {
                 console.log("Lineup: ", concerts[0].lineup);
                 console.log("Venue Name: ", concerts[0].venue.name);
                 console.log("Location: ", concerts[0].venue.city , ", ", concerts[0].venue.region);
+                console.log(moment(concerts[0].datetime).format('MMMM Do YYYY, h:mm:ss a'));
             }
         }
     })
@@ -76,8 +78,8 @@ function getSpotify() {
     //       console.log(i);
     //       console.log("artist(s): ", songs[i].artists.map(getArtistNames))
     //   }
-     
-    console.log(data.tracks.items[0]); 
+      console.log(songs);
+    // console.log(data.tracks.items[0]); 
     });
 }
 
