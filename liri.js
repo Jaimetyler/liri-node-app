@@ -68,15 +68,16 @@ function getSpotify() {
      
     spotify.search({ type: 'track', query: subject }, function(err, data) {
       if (err) {
-        return console.log('Error occurred: ' + err);
+           console.log('Error occurred: ' + err);
+           return;
       }
+      var songs = data.tracks.items;
+    //   for (var i = 0; i < songs; i++) {
+    //       console.log(i);
+    //       console.log("artist(s): ", songs[i].artists.map(getArtistNames))
+    //   }
      
     console.log(data.tracks.items[0]); 
     });
 }
 
-// var runUser = function(argOne, argTwo) {
-//     pick(argOne, argTwo);
-// }
-
-// runUser(command, subject);
