@@ -79,8 +79,9 @@ function getSpotify() {
     //       console.log(i);
     //       console.log("artist(s): ", songs[i].artists.map(getArtistNames))
     //   }
-      console.log(songs);
-    // console.log(data.tracks.items[0]); 
+    //   console.log(songs);
+    console.log(data.tracks.items[0]); 
+    // console.log(data.artists);
     });
 }
 
