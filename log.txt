@@ -1,0 +1,400 @@
+**********SONG INFO*********
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=b71fcbca292549488c4142338e7cfd7e
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=b71fcbca292549488c4142338e7cfd7e
+album: Millennium
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=b71fcbca292549488c4142338e7cfd7e
+album: Covers Part IV
+artist(s): Anthem Lights
+*****************************
+**********SONG INFO*********
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=b71fcbca292549488c4142338e7cfd7e
+album: Under the Covers, Vol. 3
+artist(s): Jess and Gabriel
+*****************************
+**********SONG INFO*********
+4
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=b71fcbca292549488c4142338e7cfd7e
+album: I Want It That Way
+artist(s): Mick Jensen
+*****************************
+**********SONG INFO*********
+5
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=b71fcbca292549488c4142338e7cfd7e
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+*****************************
+**********SONG INFO*********
+6
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=b71fcbca292549488c4142338e7cfd7e
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+7
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+*****************************
+**********SONG INFO*********
+8
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=b71fcbca292549488c4142338e7cfd7e
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+9
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=b71fcbca292549488c4142338e7cfd7e
+album: NKOTBSB
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+10
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+*****************************
+**********SONG INFO*********
+11
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=b71fcbca292549488c4142338e7cfd7e
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+*****************************
+**********SONG INFO*********
+12
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=b71fcbca292549488c4142338e7cfd7e
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+*****************************
+**********SONG INFO*********
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=b71fcbca292549488c4142338e7cfd7e
+album: I Want It That Way
+artist(s): Manuel Costa
+*****************************
+**********SONG INFO*********
+14
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=b71fcbca292549488c4142338e7cfd7e
+album: Nu Funk
+artist(s): Scary Pockets
+*****************************
+**********SONG INFO*********
+15
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=b71fcbca292549488c4142338e7cfd7e
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+*****************************
+**********SONG INFO*********
+16
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=b71fcbca292549488c4142338e7cfd7e
+album: I Want It That Way
+artist(s): Yshop
+*****************************
+**********SONG INFO*********
+17
+song name: I Want It That Way
+preview song: null
+album: Kidz Bop
+artist(s): Kidz Bop Kids
+*****************************
+**********SONG INFO*********
+18
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=b71fcbca292549488c4142338e7cfd7e
+album: The Essential "Weird Al" Yankovic
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+19
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=b71fcbca292549488c4142338e7cfd7e
+album: NOW That's What I Call 90s Pop
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=b71fcbca292549488c4142338e7cfd7e
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=b71fcbca292549488c4142338e7cfd7e
+album: Millennium
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=b71fcbca292549488c4142338e7cfd7e
+album: Covers Part IV
+artist(s): Anthem Lights
+*****************************
+**********SONG INFO*********
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=b71fcbca292549488c4142338e7cfd7e
+album: Under the Covers, Vol. 3
+artist(s): Jess and Gabriel
+*****************************
+**********SONG INFO*********
+4
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=b71fcbca292549488c4142338e7cfd7e
+album: I Want It That Way
+artist(s): Mick Jensen
+*****************************
+**********SONG INFO*********
+5
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=b71fcbca292549488c4142338e7cfd7e
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+*****************************
+**********SONG INFO*********
+6
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=b71fcbca292549488c4142338e7cfd7e
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+7
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+*****************************
+**********SONG INFO*********
+8
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=b71fcbca292549488c4142338e7cfd7e
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+9
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=b71fcbca292549488c4142338e7cfd7e
+album: NKOTBSB
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+10
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+*****************************
+**********SONG INFO*********
+11
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=b71fcbca292549488c4142338e7cfd7e
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+*****************************
+**********SONG INFO*********
+12
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=b71fcbca292549488c4142338e7cfd7e
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+*****************************
+**********SONG INFO*********
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=b71fcbca292549488c4142338e7cfd7e
+album: I Want It That Way
+artist(s): Manuel Costa
+*****************************
+**********SONG INFO*********
+14
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=b71fcbca292549488c4142338e7cfd7e
+album: Nu Funk
+artist(s): Scary Pockets
+*****************************
+**********SONG INFO*********
+15
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=b71fcbca292549488c4142338e7cfd7e
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+*****************************
+**********SONG INFO*********
+16
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=b71fcbca292549488c4142338e7cfd7e
+album: I Want It That Way
+artist(s): Yshop
+*****************************
+**********SONG INFO*********
+17
+song name: I Want It That Way
+preview song: null
+album: Kidz Bop
+artist(s): Kidz Bop Kids
+*****************************
+**********SONG INFO*********
+18
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=b71fcbca292549488c4142338e7cfd7e
+album: The Essential "Weird Al" Yankovic
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+19
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=b71fcbca292549488c4142338e7cfd7e
+album: NOW That's What I Call 90s Pop
+artist(s): Backstreet Boys
+*****************************
+!! EVENT INFO !!/nLineup: !! EVENT INFO !!/nLineup: !! EVENT INFO !!/nLineup: !! EVENT INFO !!/nLineup: !! SONG INFO !!
+0
+song name: High Grade (feat. Dizzy Wright & Alandon)
+preview song: https://p.scdn.co/mp3-preview/83efae8a12327c685e1e7d5ec4bc09b3b414540a?cid=b71fcbca292549488c4142338e7cfd7e
+album: High Grade (feat. Dizzy Wright & Alandon)
+artist(s): Chris Webby
+!! SONG INFO !!
+1
+song name: High Grade
+preview song: https://p.scdn.co/mp3-preview/76b0000040d1e7f16ae8d8098da1e13ba0dfea5c?cid=b71fcbca292549488c4142338e7cfd7e
+album: High Grade
+artist(s): Simon Jefferis
+!! SONG INFO !!
+2
+song name: High Grade
+preview song: https://p.scdn.co/mp3-preview/300b4ac110f4bcf9a39f244091953a3f6fe996bc?cid=b71fcbca292549488c4142338e7cfd7e
+album: High Grade
+artist(s): Eli Sostre
+!! SONG INFO !!
+3
+song name: High Grade
+preview song: https://p.scdn.co/mp3-preview/79c37ba6a10d0b44e72a22923d03b4424833ace0?cid=b71fcbca292549488c4142338e7cfd7e
+album: Fireflies
+artist(s): John Brown's Body
+!! SONG INFO !!
+4
+song name: Smoke High Grade (feat. Eagle Boss)
+preview song: https://p.scdn.co/mp3-preview/0acb750207e43615056868ced02844c60c58dc3d?cid=b71fcbca292549488c4142338e7cfd7e
+album: Jamaican Dancehall
+artist(s): Triple Ess
+!! SONG INFO !!
+5
+song name: High Grade
+preview song: https://p.scdn.co/mp3-preview/e7b1a588868a53d50b01656d5ea247a6bb651f5d?cid=b71fcbca292549488c4142338e7cfd7e
+album: Open Your Eyes
+artist(s): Gentleman's Dub Club
+!! SONG INFO !!
+6
+song name: High Grade (feat. Skillinjah)
+preview song: https://p.scdn.co/mp3-preview/e7e526db2bce54d340589551ebee2fd867c1049a?cid=b71fcbca292549488c4142338e7cfd7e
+album: Good Vibes
+artist(s): Josh Heinrichs
+!! SONG INFO !!
+7
+song name: High Grade Morning (feat. Protoje)
+preview song: https://p.scdn.co/mp3-preview/47ac909f11ce32c480e36dfcefc6c1f65cb613c4?cid=b71fcbca292549488c4142338e7cfd7e
+album: King Jammy Presents: Dennis Brown Tracks Of Life
+artist(s): Dennis Brown
+!! SONG INFO !!
+8
+song name: High Grade
+preview song: https://p.scdn.co/mp3-preview/ceab8888c3887ae97f809b7ec8b739275505adb0?cid=b71fcbca292549488c4142338e7cfd7e
+album: In The Streets To Africa
+artist(s): Richie Spice
+!! SONG INFO !!
+9
+song name: High Grade
+preview song: https://p.scdn.co/mp3-preview/29dd45b4ca3abfa3f8f64506c51a071b06ee7ef2?cid=b71fcbca292549488c4142338e7cfd7e
+album: High Grade
+artist(s): Prahlem Child
+!! SONG INFO !!
+10
+song name: High Grade
+preview song: https://p.scdn.co/mp3-preview/caf7093c1f133ede86359e856126f4f93b895db9?cid=b71fcbca292549488c4142338e7cfd7e
+album: Water Street
+artist(s): Sweatshop Union
+!! SONG INFO !!
+11
+song name: High Grade
+preview song: https://p.scdn.co/mp3-preview/24db72744277bbe51b49c69b5e1485bd2ffadd1f?cid=b71fcbca292549488c4142338e7cfd7e
+album: The Best Yet
+artist(s): Josh Heinrichs
+!! SONG INFO !!
+12
+song name: High Grade
+preview song: https://p.scdn.co/mp3-preview/60c82c6e67cfff02258776d0951d06b404f04850?cid=b71fcbca292549488c4142338e7cfd7e
+album: The High Grade
+artist(s): Bear Grillz
+!! SONG INFO !!
+13
+song name: High Grade
+preview song: https://p.scdn.co/mp3-preview/b93f38197fd223c879b8451acb9c3393ada2d560?cid=b71fcbca292549488c4142338e7cfd7e
+album: Affirmation III
+artist(s): Onetox
+!! SONG INFO !!
+14
+song name: High Grade
+preview song: https://p.scdn.co/mp3-preview/f6f284a83eab8b59a5c68fb63584b7cdec5d920c?cid=b71fcbca292549488c4142338e7cfd7e
+album: Golden Boy
+artist(s): Kojo Funds
+!! SONG INFO !!
+15
+song name: High Grade (feat. Jey da Polemic)
+preview song: https://p.scdn.co/mp3-preview/7616d9e443732606e3f75463c03e877ac8c20b8a?cid=b71fcbca292549488c4142338e7cfd7e
+album: Original Combination
+artist(s): Apache
+!! SONG INFO !!
+16
+song name: High Grade
+preview song: https://p.scdn.co/mp3-preview/d4d9823b5c66a168eaf2a870a6a9a37bba8c35c2?cid=b71fcbca292549488c4142338e7cfd7e
+album: Basik Instink Riddim
+artist(s): Gyptian
+!! SONG INFO !!
+17
+song name: High Grade
+preview song: https://p.scdn.co/mp3-preview/c9dce20a5fdcea0bb6e075b38a92cf149a9ab950?cid=b71fcbca292549488c4142338e7cfd7e
+album: Strictly The Best Vol. 30
+artist(s): Tony Curtis
+!! SONG INFO !!
+18
+song name: High Grade
+preview song: https://p.scdn.co/mp3-preview/8af6acf153eb4a7a033b7acb5e25258f3426b49f?cid=b71fcbca292549488c4142338e7cfd7e
+album: Redemption
+artist(s): EH!DE
+!! SONG INFO !!
+19
+song name: Nothin but the High Grade
+preview song: https://p.scdn.co/mp3-preview/4117f6c6e02ae045dd47a4025ebdd62eef733463?cid=b71fcbca292549488c4142338e7cfd7e
+album: In My Head
+artist(s): Young Shanty
