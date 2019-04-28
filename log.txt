@@ -398,3 +398,364 @@ song name: Nothin but the High Grade
 preview song: https://p.scdn.co/mp3-preview/4117f6c6e02ae045dd47a4025ebdd62eef733463?cid=b71fcbca292549488c4142338e7cfd7e
 album: In My Head
 artist(s): Young Shanty
+!! SONG INFO !!
+0
+song name: YSIV
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------!! SONG INFO !!
+1
+song name: ICONIC (ft. Jaden Smith)
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------!! SONG INFO !!
+2
+song name: 100 Miles and Running (ft. Wale & John Lindahl)
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------!! SONG INFO !!
+3
+song name: Wu Tang Forever (ft. Ghostface Killah, Raekwon, RZA, Method Man, Inspectah Deck, Cappadonna, Jackpot Scotty Wotty, U-God, Masta Killa, GZA)
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------!! SONG INFO !!
+4
+song name: The Return
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------!! SONG INFO !!
+5
+song name: Everybody Dies
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------!! SONG INFO !!
+6
+song name: Ordinary Day (ft. Hailee Steinfeld)
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------!! SONG INFO !!
+7
+song name: One Day (ft. Ryan Tedder)
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------!! SONG INFO !!
+8
+song name: The Glorious Five
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------!! SONG INFO !!
+9
+song name: The Adventures Of Stoney Bob (ft. Kajo, Slaydro, Big Lenbo)
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------!! SONG INFO !!
+10
+song name: Street Dreams II
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------!! SONG INFO !!
+11
+song name: Legacy
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------!! SONG INFO !!
+12
+song name: Last Call
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------!! SONG INFO !!
+13
+song name: Thank You (ft. Lucy Rose & The RattPack)
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------!! SONG INFO !!
+14
+song name: ICONIC (ft. Jaden Smith)
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------!! SONG INFO !!
+15
+song name: YSIV
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------!! SONG INFO !!
+16
+song name: 100 Miles and Running (ft. Wale & John Lindahl)
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------!! SONG INFO !!
+17
+song name: Ordinary Day (ft. Hailee Steinfeld)
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------!! SONG INFO !!
+18
+song name: Wu Tang Forever (ft. Ghostface Killah, Raekwon, RZA, Method Man, Inspectah Deck, Cappadonna, Jackpot Scotty Wotty, U-God, Masta Killa, GZA
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------!! SONG INFO !!
+19
+song name: The Return
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------!! SONG INFO !!
+0
+song name: Saakhi
+preview song: https://p.scdn.co/mp3-preview/fe690d7c9f7ab71be2878538034da44eb459745c?cid=b71fcbca292549488c4142338e7cfd7e
+album: Love Icon
+artist(s): Aikkyaaksh
+----------------------!! SONG INFO !!
+1
+song name: Sana
+preview song: https://p.scdn.co/mp3-preview/92bae210c6c79df93f766f265a645d1b6fd973e9?cid=b71fcbca292549488c4142338e7cfd7e
+album: Love Icon
+artist(s): Aikkyaaksh
+----------------------!! SONG INFO !!
+2
+song name: Daya Karo
+preview song: https://p.scdn.co/mp3-preview/8630db330725efd9e45ae8e540cebb249d05116f?cid=b71fcbca292549488c4142338e7cfd7e
+album: Love Icon
+artist(s): Aikkyaaksh
+----------------------!! SONG INFO !!
+3
+song name: Dosti Hai Pyaar
+preview song: https://p.scdn.co/mp3-preview/6c71eba2ad624a98df615fc039d79b8c33dd5ff7?cid=b71fcbca292549488c4142338e7cfd7e
+album: Love Icon
+artist(s): Aikkyaaksh
+----------------------!! SONG INFO !!
+4
+song name: Churake
+preview song: https://p.scdn.co/mp3-preview/9384a7e9fe0d280f626c1ccfb7ec7994c298a679?cid=b71fcbca292549488c4142338e7cfd7e
+album: Love Icon
+artist(s): Aikkyaaksh
+----------------------!! SONG INFO !!
+5
+song name: Ya Khuda
+preview song: https://p.scdn.co/mp3-preview/c8bf3f06d80c7af59a0952a833391e8241b05e5e?cid=b71fcbca292549488c4142338e7cfd7e
+album: Love Icon
+artist(s): Aikkyaaksh
+----------------------!! SONG INFO !!
+6
+song name: Kuch Nahi
+preview song: https://p.scdn.co/mp3-preview/3d55712a85769129b6556dc48ef60ba05c78bda1?cid=b71fcbca292549488c4142338e7cfd7e
+album: Love Icon
+artist(s): Aikkyaaksh
+----------------------!! SONG INFO !!
+7
+song name: Icon
+preview song: null
+album: SYRE
+artist(s): Jaden
+----------------------!! SONG INFO !!
+8
+song name: Icon - Reggaeton Remix
+preview song: null
+album: Icon (Reggaeton Remix)
+artist(s): Jaden
+----------------------!! SONG INFO !!
+9
+song name: Make A Move
+preview song: null
+album: Scripted
+artist(s): Icon For Hire
+----------------------!! SONG INFO !!
+10
+song name: Icon - Remix
+preview song: null
+album: Icon (feat. Nicky Jam) [Remix]
+artist(s): Jaden
+----------------------!! SONG INFO !!
+11
+song name: Icon? - Electric
+preview song: null
+album: SYRE: THE ELECTRIC ALBUM
+artist(s): Jaden
+----------------------!! SONG INFO !!
+12
+song name: Icon
+preview song: null
+album: SYRE
+artist(s): Jaden
+----------------------!! SONG INFO !!
+13
+song name: Tip Toe Wing In My Jawwwdinz
+preview song: https://p.scdn.co/mp3-preview/518bc332867099aa97925ad7f72371071bca77ed?cid=b71fcbca292549488c4142338e7cfd7e
+album: Neon Icon
+artist(s): Riff Raff
+----------------------!! SONG INFO !!
+14
+song name: Hope of Morning
+preview song: https://p.scdn.co/mp3-preview/ff3c7e3723467597093c04f4d1d3b5a72122f39e?cid=b71fcbca292549488c4142338e7cfd7e
+album: Icon for Hire
+artist(s): Icon For Hire
+----------------------!! SONG INFO !!
+15
+song name: Teenage Icon
+preview song: https://p.scdn.co/mp3-preview/b4a1c7ac50a0f0f15a50e077b53111e5bf8ae2a1?cid=b71fcbca292549488c4142338e7cfd7e
+album: Come of Age (Deluxe Version)
+artist(s): The Vaccines
+----------------------!! SONG INFO !!
+16
+song name: Get Well
+preview song: null
+album: Scripted
+artist(s): Icon For Hire
+----------------------!! SONG INFO !!
+17
+song name: Off With Her Head
+preview song: null
+album: Scripted
+artist(s): Icon For Hire
+----------------------!! SONG INFO !!
+18
+song name: Cynics & Critics
+preview song: https://p.scdn.co/mp3-preview/383b7dd0223c54abbd69ae0a22f0c2db021daf9e?cid=b71fcbca292549488c4142338e7cfd7e
+album: Icon for Hire
+artist(s): Icon For Hire
+----------------------!! SONG INFO !!
+19
+song name: Introducing The Icon
+preview song: https://p.scdn.co/mp3-preview/a7ee1e08855124f8eb974d9819c865fed558d807?cid=b71fcbca292549488c4142338e7cfd7e
+album: Neon Icon
+artist(s): Riff Raff
+----------------------0
+!! SONG INFO !!
+song name: Saakhi
+preview song: https://p.scdn.co/mp3-preview/fe690d7c9f7ab71be2878538034da44eb459745c?cid=b71fcbca292549488c4142338e7cfd7e
+album: Love Icon
+artist(s): Aikkyaaksh
+----------------------1
+!! SONG INFO !!
+song name: Sana
+preview song: https://p.scdn.co/mp3-preview/92bae210c6c79df93f766f265a645d1b6fd973e9?cid=b71fcbca292549488c4142338e7cfd7e
+album: Love Icon
+artist(s): Aikkyaaksh
+----------------------2
+!! SONG INFO !!
+song name: Daya Karo
+preview song: https://p.scdn.co/mp3-preview/8630db330725efd9e45ae8e540cebb249d05116f?cid=b71fcbca292549488c4142338e7cfd7e
+album: Love Icon
+artist(s): Aikkyaaksh
+----------------------3
+!! SONG INFO !!
+song name: Dosti Hai Pyaar
+preview song: https://p.scdn.co/mp3-preview/6c71eba2ad624a98df615fc039d79b8c33dd5ff7?cid=b71fcbca292549488c4142338e7cfd7e
+album: Love Icon
+artist(s): Aikkyaaksh
+----------------------4
+!! SONG INFO !!
+song name: Churake
+preview song: https://p.scdn.co/mp3-preview/9384a7e9fe0d280f626c1ccfb7ec7994c298a679?cid=b71fcbca292549488c4142338e7cfd7e
+album: Love Icon
+artist(s): Aikkyaaksh
+----------------------5
+!! SONG INFO !!
+song name: Ya Khuda
+preview song: https://p.scdn.co/mp3-preview/c8bf3f06d80c7af59a0952a833391e8241b05e5e?cid=b71fcbca292549488c4142338e7cfd7e
+album: Love Icon
+artist(s): Aikkyaaksh
+----------------------6
+!! SONG INFO !!
+song name: Kuch Nahi
+preview song: https://p.scdn.co/mp3-preview/3d55712a85769129b6556dc48ef60ba05c78bda1?cid=b71fcbca292549488c4142338e7cfd7e
+album: Love Icon
+artist(s): Aikkyaaksh
+----------------------7
+!! SONG INFO !!
+song name: Icon
+preview song: null
+album: SYRE
+artist(s): Jaden
+----------------------8
+!! SONG INFO !!
+song name: Icon - Reggaeton Remix
+preview song: null
+album: Icon (Reggaeton Remix)
+artist(s): Jaden
+----------------------9
+!! SONG INFO !!
+song name: Make A Move
+preview song: null
+album: Scripted
+artist(s): Icon For Hire
+----------------------10
+!! SONG INFO !!
+song name: Icon - Remix
+preview song: null
+album: Icon (feat. Nicky Jam) [Remix]
+artist(s): Jaden
+----------------------11
+!! SONG INFO !!
+song name: Icon? - Electric
+preview song: null
+album: SYRE: THE ELECTRIC ALBUM
+artist(s): Jaden
+----------------------12
+!! SONG INFO !!
+song name: Icon
+preview song: null
+album: SYRE
+artist(s): Jaden
+----------------------13
+!! SONG INFO !!
+song name: Tip Toe Wing In My Jawwwdinz
+preview song: https://p.scdn.co/mp3-preview/518bc332867099aa97925ad7f72371071bca77ed?cid=b71fcbca292549488c4142338e7cfd7e
+album: Neon Icon
+artist(s): Riff Raff
+----------------------14
+!! SONG INFO !!
+song name: Hope of Morning
+preview song: https://p.scdn.co/mp3-preview/ff3c7e3723467597093c04f4d1d3b5a72122f39e?cid=b71fcbca292549488c4142338e7cfd7e
+album: Icon for Hire
+artist(s): Icon For Hire
+----------------------15
+!! SONG INFO !!
+song name: Teenage Icon
+preview song: https://p.scdn.co/mp3-preview/b4a1c7ac50a0f0f15a50e077b53111e5bf8ae2a1?cid=b71fcbca292549488c4142338e7cfd7e
+album: Come of Age (Deluxe Version)
+artist(s): The Vaccines
+----------------------16
+!! SONG INFO !!
+song name: Get Well
+preview song: null
+album: Scripted
+artist(s): Icon For Hire
+----------------------17
+!! SONG INFO !!
+song name: Off With Her Head
+preview song: null
+album: Scripted
+artist(s): Icon For Hire
+----------------------18
+!! SONG INFO !!
+song name: Cynics & Critics
+preview song: https://p.scdn.co/mp3-preview/383b7dd0223c54abbd69ae0a22f0c2db021daf9e?cid=b71fcbca292549488c4142338e7cfd7e
+album: Icon for Hire
+artist(s): Icon For Hire
+----------------------19
+!! SONG INFO !!
+song name: Introducing The Icon
+preview song: https://p.scdn.co/mp3-preview/a7ee1e08855124f8eb974d9819c865fed558d807?cid=b71fcbca292549488c4142338e7cfd7e
+album: Neon Icon
+artist(s): Riff Raff
+----------------------
