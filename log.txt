@@ -758,4 +758,124 @@ song name: Introducing The Icon
 preview song: https://p.scdn.co/mp3-preview/a7ee1e08855124f8eb974d9819c865fed558d807?cid=b71fcbca292549488c4142338e7cfd7e
 album: Neon Icon
 artist(s): Riff Raff
+----------------------0
+!! SONG INFO !!
+song name: Gin And Juice (feat. Dat Nigga Daz)
+preview song: https://p.scdn.co/mp3-preview/1be6688fa7fad89ece38520610ffebd7c8fd2672?cid=b71fcbca292549488c4142338e7cfd7e
+album: Doggystyle
+artist(s): Snoop Dogg
+----------------------1
+!! SONG INFO !!
+song name: Gin and Juice
+preview song: https://p.scdn.co/mp3-preview/1d049b4fecf11ab0b8414cd07cc4cba134ca7b7d?cid=b71fcbca292549488c4142338e7cfd7e
+album: Shinebox
+artist(s): The Gourds
+----------------------2
+!! SONG INFO !!
+song name: Juice & Gin
+preview song: null
+album: GOOD Job, You Found Me
+artist(s): Valee
+----------------------3
+!! SONG INFO !!
+song name: Gin and Juice
+preview song: https://p.scdn.co/mp3-preview/6db94bc285e062441bc810c4bff8198acb5a8452?cid=b71fcbca292549488c4142338e7cfd7e
+album: Grasswhoopin' Party Pack, Vol. 2
+artist(s): Hayseed Dixie
+----------------------4
+!! SONG INFO !!
+song name: Gin & Juice
+preview song: https://p.scdn.co/mp3-preview/3ed7c82d616cd6c1c60a53842ecfdfd99b9747c2?cid=b71fcbca292549488c4142338e7cfd7e
+album: I'd Like A Virgin
+artist(s): Richard Cheese
+----------------------5
+!! SONG INFO !!
+song name: Gin And Juice (feat. Dat Nigga Daz)
+preview song: https://p.scdn.co/mp3-preview/ea12bb16932d84ead9d5cd808cc5640d9e234572?cid=b71fcbca292549488c4142338e7cfd7e
+album: Doggystyle
+artist(s): Snoop Dogg
+----------------------6
+!! SONG INFO !!
+song name: Juice & Gin
+preview song: null
+album: GOOD Job, You Found Me
+artist(s): Valee
+----------------------7
+!! SONG INFO !!
+song name: Gin And Juice II
+preview song: null
+album: The Best Of Snoop Dogg
+artist(s): Snoop Dogg
+----------------------8
+!! SONG INFO !!
+song name: Gin & Juice (Let Go My Hand)
+preview song: https://p.scdn.co/mp3-preview/1aff305045e5033a5ddbd0018263666b077d605f?cid=b71fcbca292549488c4142338e7cfd7e
+album: Cheers To The Fall
+artist(s): Andra Day
+----------------------9
+!! SONG INFO !!
+song name: Gin And Juice II
+preview song: null
+album: Da Game Is To Be Sold, Not To Be Told
+artist(s): Snoop Dogg
+----------------------10
+!! SONG INFO !!
+song name: Gin and Juice
+preview song: https://p.scdn.co/mp3-preview/ce146d6f3b7f92c2a5ceefed41d296cdbd1319f4?cid=b71fcbca292549488c4142338e7cfd7e
+album: Cold Chilling - Compton
+artist(s): Cold Chilling Collective
+----------------------11
+!! SONG INFO !!
+song name: Gin And Juice
+preview song: null
+album: Punk Goes Crunk
+artist(s): Hot Rod Circuit
+----------------------12
+!! SONG INFO !!
+song name: Gin And Juice - Live
+preview song: null
+album: Live at the House Of Blues
+artist(s): Snoop Dogg
+----------------------13
+!! SONG INFO !!
+song name: Gin & Juice - Frey Remix
+preview song: https://p.scdn.co/mp3-preview/5608bcf8615ddf9a91fa94e937ae88a1987facc8?cid=b71fcbca292549488c4142338e7cfd7e
+album: Gin & Juice
+artist(s): Jerome Robins
+----------------------14
+!! SONG INFO !!
+song name: Gin And Juice
+preview song: https://p.scdn.co/mp3-preview/c637746fb50e63cb8541ab5c7c35de643ca22e47?cid=b71fcbca292549488c4142338e7cfd7e
+album: The Sunny Side of the Moon: The Best of Richard Cheese
+artist(s): Richard Cheese
+----------------------15
+!! SONG INFO !!
+song name: Gin & Juice
+preview song: null
+album: Dangerous Minds (Original Motion Picture Soundtrack)
+artist(s): Devante
+----------------------16
+!! SONG INFO !!
+song name: Gin And Juice
+preview song: https://p.scdn.co/mp3-preview/7831e2521befa0e75318ca8e104608b3f69b9629?cid=b71fcbca292549488c4142338e7cfd7e
+album: Streetwize Does Dre
+artist(s): Streetwize
+----------------------17
+!! SONG INFO !!
+song name: Gin And Juice II
+preview song: null
+album: The Best Of Snoop Dogg
+artist(s): Snoop Dogg
+----------------------18
+!! SONG INFO !!
+song name: Gin & Juice (Instrumental)
+preview song: https://p.scdn.co/mp3-preview/486f21c0887d5461b368d1c0617742de270960fe?cid=b71fcbca292549488c4142338e7cfd7e
+album: Rap Hip Hop Instrumentals Beats: The Last Beat Tape
+artist(s): Dezparado Mgd
+----------------------19
+!! SONG INFO !!
+song name: On That Gin and Juice
+preview song: https://p.scdn.co/mp3-preview/2f60acda7823b40d51e22fa843e0bff0ff5d079c?cid=b71fcbca292549488c4142338e7cfd7e
+album: My Southern Soul
+artist(s): Donnie Ray
 ----------------------

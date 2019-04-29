@@ -1,4 +1,3 @@
-
 require("dotenv").config();
 
 //creating variables to take in node command line arguments
@@ -75,7 +74,6 @@ function bandsInTown(subject) {
 
 function getSpotify(subject) {
 
-
     spotify.search({ type: 'track', query: subject }, function (err, data) {
         if (err) {
             console.log('Error occurred: ' + err);
@@ -103,18 +101,42 @@ function getSpotify(subject) {
 }
 
 function showMovieInfo(subject) {
-    if (subject === null) {
+
+    var movie = subject;
+    if (!movie) {
         subject = "The Silence of the Lambs";
         console.log("----------------------");
         console.log("If you haven't watched The Silence of the Lambs, you should: https://www.imdb.com/title/tt0102926/");
         console.log("It's on Netflix!")
     }
+    var url = "http://www.omdbapi.com/?t=" + movie + "&y=&plot=short&apikey=trilogy";
+    axios.get(url).then(
+        function (response) {
 
-    this.findMovie = function (subject) {
-        var URL = "http://www.omdbapi.com/?apikey=trilogy"
+            console.log("----------------------")
+            console.log("Movie Title: " + response.data.Title);
+            console.log("Year: " + response.data.Year);
+            console.log("IMDB Rating: " + response.data.imdbRating);
+            console.log("Rotten Tomatoes: " + response.data.Ratings[1].Value);
+            console.log("Country: " + response.data.Country);
+            console.log("Language: " + response.data.Language);
+            console.log("Plot: " + response.data.Plot);
+            console.log("Actors: " + response.data.Actors);
+            console.log("----------------------")
+        })
+}
 
-        axios.get(URL).then(function(movie)  {
-            var data = response.data;
-            console.log(data);
-              })
-            }}
+function showSomeInfo() {
+    fs.readFile("random.txt", "utf8", function(error, data) {
+      if (error) {
+        return console.log(error);
+      }
+      var dataArr = data.split(",");
+  
+      for (let i = 0; i < dataArr.length; i++) {
+        if (i % 2 === 0) {
+          console.log(dataArr[i] + " " + dataArr[i + 1]);
+        }
+      }
+    
+    })}
