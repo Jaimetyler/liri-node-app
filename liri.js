@@ -103,18 +103,27 @@ function getSpotify(subject) {
 }
 
 function showMovieInfo(subject) {
-    if (subject === null) {
-        subject = "The Silence of the Lambs";
-        console.log("----------------------");
-        console.log("If you haven't watched The Silence of the Lambs, you should: https://www.imdb.com/title/tt0102926/");
-        console.log("It's on Netflix!")
-    }
+    
 
-    this.findMovie = function (subject) {
-        var URL = "http://www.omdbapi.com/?apikey=trilogy"
-
-        axios.get(URL).then(function(movie)  {
-            var data = response.data;
-            console.log(data);
-              })
-            }}
+        var movie = subject;
+        if (!movie) {
+            subject = "The Silence of the Lambs";
+                console.log("----------------------");
+                console.log("If you haven't watched The Silence of the Lambs, you should: https://www.imdb.com/title/tt0102926/");
+                console.log("It's on Netflix!")
+        }
+        var url = "http://www.omdbapi.com/?t=" + movie + "&y=&plot=short&apikey=trilogy";
+        axios.get(url).then(
+            function (response) {
+               
+                    console.log("----------------------")
+                    console.log("Movie Title: " + response.data.Title);
+                    console.log("Year: " + response.data.Year);
+                    console.log("IMDB Rating: " + response.data.imdbRating);
+                    console.log("Rotten Tomatoes: " + response.data.Ratings[1].Value);
+                    console.log("Country: " + response.data.Country);
+                    console.log("Language: " + response.data.Language);
+                    console.log("Plot: " + response.data.Plot);
+                    console.log("Actors: " + response.data.Actors);
+                    console.log("----------------------")
+        })}
