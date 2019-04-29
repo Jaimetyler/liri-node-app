@@ -89,7 +89,7 @@ function getSpotify(subject) {
             console.log("Song name: " + songs[i].name);
             fs.appendFileSync("log.txt", "song name: " + songs[i].name + "\n");
             console.log("Preview song: " + songs[i].preview_url);
-            fs.appendFileSync("log.txt", "preview song: " + songs[i].preview_url + "\n");
+            fs.appendFileSync("log.txt", "preview song: " + songs[0].preview_url + "\n");
             console.log("Album: " + songs[i].album.name);
             fs.appendFileSync("log.txt", "album: " + songs[i].album.name + "\n");
             console.log("Artist(s): " + songs[i].artists[0].name);
