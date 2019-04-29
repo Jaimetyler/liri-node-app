@@ -878,4 +878,844 @@ song name: On That Gin and Juice
 preview song: https://p.scdn.co/mp3-preview/2f60acda7823b40d51e22fa843e0bff0ff5d079c?cid=b71fcbca292549488c4142338e7cfd7e
 album: My Southern Soul
 artist(s): Donnie Ray
+----------------------0
+!! SONG INFO !!
+song name: Old Town Road - Remix
+preview song: https://p.scdn.co/mp3-preview/d94ec2ebe62fd52cf038760f57c251c145346bb2?cid=b71fcbca292549488c4142338e7cfd7e
+album: Old Town Road
+artist(s): Lil Nas X
+----------------------1
+!! SONG INFO !!
+song name: Old Town Road
+preview song: https://p.scdn.co/mp3-preview/60ad4e538e37d3bffa981fdb52deea152995477c?cid=b71fcbca292549488c4142338e7cfd7e
+album: Old Town Road
+artist(s): Lil Nas X
+----------------------2
+!! SONG INFO !!
+song name: Old Town Road
+preview song: https://p.scdn.co/mp3-preview/60ad4e538e37d3bffa981fdb52deea152995477c?cid=b71fcbca292549488c4142338e7cfd7e
+album: Old Town Road
+artist(s): Lil Nas X
+----------------------3
+!! SONG INFO !!
+song name: Old Town Road
+preview song: https://p.scdn.co/mp3-preview/0c6907da8f7bcee1d63dcd72d5d168a98ce00f57?cid=b71fcbca292549488c4142338e7cfd7e
+album: Time's Up
+artist(s): Mikey Jackson
+----------------------4
+!! SONG INFO !!
+song name: Old Town Road
+preview song: https://p.scdn.co/mp3-preview/5f65b35bdc3d55ed560a94fba3bb06be33546299?cid=b71fcbca292549488c4142338e7cfd7e
+album: Old Town Road
+artist(s): Walk Off the Earth
+----------------------5
+!! SONG INFO !!
+song name: Old Town Road (Jersey Club Mix)
+preview song: https://p.scdn.co/mp3-preview/f9e63beb4fcb47a977974ac19ce70ff82a9890f0?cid=b71fcbca292549488c4142338e7cfd7e
+album: Old Town Road (Jersey Club Mix)
+artist(s): DJ Smallz 732
+----------------------6
+!! SONG INFO !!
+song name: Old Town Road
+preview song: https://p.scdn.co/mp3-preview/6e22e685c1b50422b6a7c7f76b67e0f82a4b2335?cid=b71fcbca292549488c4142338e7cfd7e
+album: Old Town Road
+artist(s): Young Bopete
+----------------------7
+!! SONG INFO !!
+song name: Old Town Road
+preview song: https://p.scdn.co/mp3-preview/e8cfe677143ad01c1723583a20b22be8d5e79f4c?cid=b71fcbca292549488c4142338e7cfd7e
+album: Old Town Road
+artist(s): The Animal In Me
+----------------------8
+!! SONG INFO !!
+song name: Old Town Road - Instrumental
+preview song: https://p.scdn.co/mp3-preview/2cdfce44e17a26389796444ca457023355830b5c?cid=b71fcbca292549488c4142338e7cfd7e
+album: Old Town Road
+artist(s): DJ Boomin
+----------------------9
+!! SONG INFO !!
+song name: Old Town Road
+preview song: https://p.scdn.co/mp3-preview/7e7ea4f28078338c964d9680987881d907ac0eb6?cid=b71fcbca292549488c4142338e7cfd7e
+album: Old Town Road
+artist(s): Ashton Blaak
+----------------------10
+!! SONG INFO !!
+song name: Old Town Road (Instrumental Remix)
+preview song: https://p.scdn.co/mp3-preview/d2e323261ac819695e0464a772448c5e96ea2162?cid=b71fcbca292549488c4142338e7cfd7e
+album: Old Town Road (Instrumental Remix)
+artist(s): Cardo Grandz
+----------------------11
+!! SONG INFO !!
+song name: Old Town Road
+preview song: https://p.scdn.co/mp3-preview/3f78e2556997f45fb47ab4af71bbd37676f26e3e?cid=b71fcbca292549488c4142338e7cfd7e
+album: Old Town Road
+artist(s): Tempting Fate
+----------------------12
+!! SONG INFO !!
+song name: Old Town Road - I Got Horses in the Back - Marimba Remix
+preview song: https://p.scdn.co/mp3-preview/74760bd88a775440d5cd8655f88dbdf5d4a744e1?cid=b71fcbca292549488c4142338e7cfd7e
+album: Old Town Road (I Got Horses in the Back - Marimba Remix)
+artist(s): Coolo
+----------------------13
+!! SONG INFO !!
+song name: Old Town Road (I Got Horses In The Back) - Instrumental
+preview song: https://p.scdn.co/mp3-preview/69035f051c342391a33cfa1c35e0278a65f9231f?cid=b71fcbca292549488c4142338e7cfd7e
+album: Old Town Road (I Got Horses In The Back)
+artist(s): B Lou
+----------------------14
+!! SONG INFO !!
+song name: Old Town Road
+preview song: https://p.scdn.co/mp3-preview/8947a80071697496e0cbb4b230f18f9c00ffd2b2?cid=b71fcbca292549488c4142338e7cfd7e
+album: Old Town Road
+artist(s): Josh Vietti
+----------------------15
+!! SONG INFO !!
+song name: Old Town Road
+preview song: https://p.scdn.co/mp3-preview/614d8fcee835802722083b8c14e86c75e99fd603?cid=b71fcbca292549488c4142338e7cfd7e
+album: Old Town Road
+artist(s): Driveways
+----------------------16
+!! SONG INFO !!
+song name: Old Town Road
+preview song: https://p.scdn.co/mp3-preview/fdcaf4dd90ef0c8dccb49f5a94e81a00df0f8710?cid=b71fcbca292549488c4142338e7cfd7e
+album: Old Town Road
+artist(s): Vermicide Violence
+----------------------17
+!! SONG INFO !!
+song name: Old Town Road - Remix
+preview song: https://p.scdn.co/mp3-preview/e3458c8f169cc0afa2468e2ba0ae7bdf649e4c54?cid=b71fcbca292549488c4142338e7cfd7e
+album: Old Town Road (Remix)
+artist(s): Overspace
+----------------------18
+!! SONG INFO !!
+song name: Old Town Road (Minecraft Note Blocks)
+preview song: https://p.scdn.co/mp3-preview/e7f25386fea15b4a99811a7a3ff8aedf88a61b04?cid=b71fcbca292549488c4142338e7cfd7e
+album: Old Town Road (Minecraft Note Blocks)
+artist(s): grande1899
+----------------------19
+!! SONG INFO !!
+song name: Old Town Road (Horses In The Back) [Instrumental]
+preview song: https://p.scdn.co/mp3-preview/ce026c321a0596905b0ec260bcc02281c61ca02a?cid=b71fcbca292549488c4142338e7cfd7e
+album: Old Town Road (Horses In The Back) [Instrumental]
+artist(s): dj recklus
+----------------------0
+!! SONG INFO !!
+song name: YSIV
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------1
+!! SONG INFO !!
+song name: ICONIC (ft. Jaden Smith)
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------2
+!! SONG INFO !!
+song name: 100 Miles and Running (ft. Wale & John Lindahl)
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------3
+!! SONG INFO !!
+song name: Wu Tang Forever (ft. Ghostface Killah, Raekwon, RZA, Method Man, Inspectah Deck, Cappadonna, Jackpot Scotty Wotty, U-God, Masta Killa, GZA)
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------4
+!! SONG INFO !!
+song name: The Return
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------5
+!! SONG INFO !!
+song name: Everybody Dies
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------6
+!! SONG INFO !!
+song name: Ordinary Day (ft. Hailee Steinfeld)
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------7
+!! SONG INFO !!
+song name: One Day (ft. Ryan Tedder)
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------8
+!! SONG INFO !!
+song name: The Glorious Five
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------9
+!! SONG INFO !!
+song name: The Adventures Of Stoney Bob (ft. Kajo, Slaydro, Big Lenbo)
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------10
+!! SONG INFO !!
+song name: Street Dreams II
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------11
+!! SONG INFO !!
+song name: Legacy
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------12
+!! SONG INFO !!
+song name: Last Call
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------13
+!! SONG INFO !!
+song name: Thank You (ft. Lucy Rose & The RattPack)
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------14
+!! SONG INFO !!
+song name: ICONIC (ft. Jaden Smith)
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------15
+!! SONG INFO !!
+song name: YSIV
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------16
+!! SONG INFO !!
+song name: 100 Miles and Running (ft. Wale & John Lindahl)
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------17
+!! SONG INFO !!
+song name: Ordinary Day (ft. Hailee Steinfeld)
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------18
+!! SONG INFO !!
+song name: Wu Tang Forever (ft. Ghostface Killah, Raekwon, RZA, Method Man, Inspectah Deck, Cappadonna, Jackpot Scotty Wotty, U-God, Masta Killa, GZA
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------19
+!! SONG INFO !!
+song name: The Return
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------0
+!! SONG INFO !!
+song name: YSIV
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------1
+!! SONG INFO !!
+song name: ICONIC (ft. Jaden Smith)
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------2
+!! SONG INFO !!
+song name: 100 Miles and Running (ft. Wale & John Lindahl)
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------3
+!! SONG INFO !!
+song name: Wu Tang Forever (ft. Ghostface Killah, Raekwon, RZA, Method Man, Inspectah Deck, Cappadonna, Jackpot Scotty Wotty, U-God, Masta Killa, GZA)
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------4
+!! SONG INFO !!
+song name: The Return
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------5
+!! SONG INFO !!
+song name: Everybody Dies
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------6
+!! SONG INFO !!
+song name: Ordinary Day (ft. Hailee Steinfeld)
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------7
+!! SONG INFO !!
+song name: One Day (ft. Ryan Tedder)
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------8
+!! SONG INFO !!
+song name: The Glorious Five
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------9
+!! SONG INFO !!
+song name: The Adventures Of Stoney Bob (ft. Kajo, Slaydro, Big Lenbo)
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------10
+!! SONG INFO !!
+song name: Street Dreams II
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------11
+!! SONG INFO !!
+song name: Legacy
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------12
+!! SONG INFO !!
+song name: Last Call
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------13
+!! SONG INFO !!
+song name: Thank You (ft. Lucy Rose & The RattPack)
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------14
+!! SONG INFO !!
+song name: ICONIC (ft. Jaden Smith)
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------15
+!! SONG INFO !!
+song name: YSIV
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------16
+!! SONG INFO !!
+song name: 100 Miles and Running (ft. Wale & John Lindahl)
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------17
+!! SONG INFO !!
+song name: Ordinary Day (ft. Hailee Steinfeld)
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------18
+!! SONG INFO !!
+song name: Wu Tang Forever (ft. Ghostface Killah, Raekwon, RZA, Method Man, Inspectah Deck, Cappadonna, Jackpot Scotty Wotty, U-God, Masta Killa, GZA
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------19
+!! SONG INFO !!
+song name: The Return
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------0
+!! SONG INFO !!
+song name: YSIV
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------1
+!! SONG INFO !!
+song name: ICONIC (ft. Jaden Smith)
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------2
+!! SONG INFO !!
+song name: 100 Miles and Running (ft. Wale & John Lindahl)
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------3
+!! SONG INFO !!
+song name: Wu Tang Forever (ft. Ghostface Killah, Raekwon, RZA, Method Man, Inspectah Deck, Cappadonna, Jackpot Scotty Wotty, U-God, Masta Killa, GZA)
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------4
+!! SONG INFO !!
+song name: The Return
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------5
+!! SONG INFO !!
+song name: Everybody Dies
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------6
+!! SONG INFO !!
+song name: Ordinary Day (ft. Hailee Steinfeld)
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------7
+!! SONG INFO !!
+song name: One Day (ft. Ryan Tedder)
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------8
+!! SONG INFO !!
+song name: The Glorious Five
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------9
+!! SONG INFO !!
+song name: The Adventures Of Stoney Bob (ft. Kajo, Slaydro, Big Lenbo)
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------10
+!! SONG INFO !!
+song name: Street Dreams II
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------11
+!! SONG INFO !!
+song name: Legacy
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------12
+!! SONG INFO !!
+song name: Last Call
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------13
+!! SONG INFO !!
+song name: Thank You (ft. Lucy Rose & The RattPack)
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------14
+!! SONG INFO !!
+song name: ICONIC (ft. Jaden Smith)
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------15
+!! SONG INFO !!
+song name: YSIV
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------16
+!! SONG INFO !!
+song name: 100 Miles and Running (ft. Wale & John Lindahl)
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------17
+!! SONG INFO !!
+song name: Ordinary Day (ft. Hailee Steinfeld)
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------18
+!! SONG INFO !!
+song name: Wu Tang Forever (ft. Ghostface Killah, Raekwon, RZA, Method Man, Inspectah Deck, Cappadonna, Jackpot Scotty Wotty, U-God, Masta Killa, GZA
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------19
+!! SONG INFO !!
+song name: The Return
+preview song: null
+album: YSIV
+artist(s): Logic
+----------------------0
+!! SONG INFO !!
+song name: Old Town Road - Remix
+preview song: https://p.scdn.co/mp3-preview/d94ec2ebe62fd52cf038760f57c251c145346bb2?cid=b71fcbca292549488c4142338e7cfd7e
+album: Old Town Road
+artist(s): Lil Nas X
+----------------------1
+!! SONG INFO !!
+song name: Old Town Road
+preview song: https://p.scdn.co/mp3-preview/d94ec2ebe62fd52cf038760f57c251c145346bb2?cid=b71fcbca292549488c4142338e7cfd7e
+album: Old Town Road
+artist(s): Lil Nas X
+----------------------2
+!! SONG INFO !!
+song name: Old Town Road
+preview song: https://p.scdn.co/mp3-preview/d94ec2ebe62fd52cf038760f57c251c145346bb2?cid=b71fcbca292549488c4142338e7cfd7e
+album: Old Town Road
+artist(s): Lil Nas X
+----------------------3
+!! SONG INFO !!
+song name: Old Town Road
+preview song: https://p.scdn.co/mp3-preview/d94ec2ebe62fd52cf038760f57c251c145346bb2?cid=b71fcbca292549488c4142338e7cfd7e
+album: Time's Up
+artist(s): Mikey Jackson
+----------------------4
+!! SONG INFO !!
+song name: Old Town Road
+preview song: https://p.scdn.co/mp3-preview/d94ec2ebe62fd52cf038760f57c251c145346bb2?cid=b71fcbca292549488c4142338e7cfd7e
+album: Old Town Road
+artist(s): Walk Off the Earth
+----------------------5
+!! SONG INFO !!
+song name: Old Town Road (Jersey Club Mix)
+preview song: https://p.scdn.co/mp3-preview/d94ec2ebe62fd52cf038760f57c251c145346bb2?cid=b71fcbca292549488c4142338e7cfd7e
+album: Old Town Road (Jersey Club Mix)
+artist(s): DJ Smallz 732
+----------------------6
+!! SONG INFO !!
+song name: Old Town Road
+preview song: https://p.scdn.co/mp3-preview/d94ec2ebe62fd52cf038760f57c251c145346bb2?cid=b71fcbca292549488c4142338e7cfd7e
+album: Old Town Road
+artist(s): Young Bopete
+----------------------7
+!! SONG INFO !!
+song name: Old Town Road
+preview song: https://p.scdn.co/mp3-preview/d94ec2ebe62fd52cf038760f57c251c145346bb2?cid=b71fcbca292549488c4142338e7cfd7e
+album: Old Town Road
+artist(s): The Animal In Me
+----------------------8
+!! SONG INFO !!
+song name: Old Town Road - Instrumental
+preview song: https://p.scdn.co/mp3-preview/d94ec2ebe62fd52cf038760f57c251c145346bb2?cid=b71fcbca292549488c4142338e7cfd7e
+album: Old Town Road
+artist(s): DJ Boomin
+----------------------9
+!! SONG INFO !!
+song name: Old Town Road
+preview song: https://p.scdn.co/mp3-preview/d94ec2ebe62fd52cf038760f57c251c145346bb2?cid=b71fcbca292549488c4142338e7cfd7e
+album: Old Town Road
+artist(s): Ashton Blaak
+----------------------10
+!! SONG INFO !!
+song name: Old Town Road (Instrumental Remix)
+preview song: https://p.scdn.co/mp3-preview/d94ec2ebe62fd52cf038760f57c251c145346bb2?cid=b71fcbca292549488c4142338e7cfd7e
+album: Old Town Road (Instrumental Remix)
+artist(s): Cardo Grandz
+----------------------11
+!! SONG INFO !!
+song name: Old Town Road
+preview song: https://p.scdn.co/mp3-preview/d94ec2ebe62fd52cf038760f57c251c145346bb2?cid=b71fcbca292549488c4142338e7cfd7e
+album: Old Town Road
+artist(s): Tempting Fate
+----------------------12
+!! SONG INFO !!
+song name: Old Town Road - I Got Horses in the Back - Marimba Remix
+preview song: https://p.scdn.co/mp3-preview/d94ec2ebe62fd52cf038760f57c251c145346bb2?cid=b71fcbca292549488c4142338e7cfd7e
+album: Old Town Road (I Got Horses in the Back - Marimba Remix)
+artist(s): Coolo
+----------------------13
+!! SONG INFO !!
+song name: Old Town Road (I Got Horses In The Back) - Instrumental
+preview song: https://p.scdn.co/mp3-preview/d94ec2ebe62fd52cf038760f57c251c145346bb2?cid=b71fcbca292549488c4142338e7cfd7e
+album: Old Town Road (I Got Horses In The Back)
+artist(s): B Lou
+----------------------14
+!! SONG INFO !!
+song name: Old Town Road
+preview song: https://p.scdn.co/mp3-preview/d94ec2ebe62fd52cf038760f57c251c145346bb2?cid=b71fcbca292549488c4142338e7cfd7e
+album: Old Town Road
+artist(s): Josh Vietti
+----------------------15
+!! SONG INFO !!
+song name: Old Town Road
+preview song: https://p.scdn.co/mp3-preview/d94ec2ebe62fd52cf038760f57c251c145346bb2?cid=b71fcbca292549488c4142338e7cfd7e
+album: Old Town Road
+artist(s): Driveways
+----------------------16
+!! SONG INFO !!
+song name: Old Town Road
+preview song: https://p.scdn.co/mp3-preview/d94ec2ebe62fd52cf038760f57c251c145346bb2?cid=b71fcbca292549488c4142338e7cfd7e
+album: Old Town Road
+artist(s): Vermicide Violence
+----------------------17
+!! SONG INFO !!
+song name: Old Town Road - Remix
+preview song: https://p.scdn.co/mp3-preview/d94ec2ebe62fd52cf038760f57c251c145346bb2?cid=b71fcbca292549488c4142338e7cfd7e
+album: Old Town Road (Remix)
+artist(s): Overspace
+----------------------18
+!! SONG INFO !!
+song name: Old Town Road (Minecraft Note Blocks)
+preview song: https://p.scdn.co/mp3-preview/d94ec2ebe62fd52cf038760f57c251c145346bb2?cid=b71fcbca292549488c4142338e7cfd7e
+album: Old Town Road (Minecraft Note Blocks)
+artist(s): grande1899
+----------------------19
+!! SONG INFO !!
+song name: Old Town Road (Horses In The Back) [Instrumental]
+preview song: https://p.scdn.co/mp3-preview/d94ec2ebe62fd52cf038760f57c251c145346bb2?cid=b71fcbca292549488c4142338e7cfd7e
+album: Old Town Road (Horses In The Back) [Instrumental]
+artist(s): dj recklus
+----------------------0
+!! SONG INFO !!
+song name: The Ringer
+preview song: null
+album: Kamikaze
+artist(s): Eminem
+----------------------1
+!! SONG INFO !!
+song name: Ringer
+preview song: null
+album: Bed of Liars
+artist(s): The Unlikely Candidates
+----------------------2
+!! SONG INFO !!
+song name: The Ringer
+preview song: null
+album: Kamikaze
+artist(s): Eminem
+----------------------3
+!! SONG INFO !!
+song name: Ringer
+preview song: null
+album: Before the Babies
+artist(s): Cheats
+----------------------4
+!! SONG INFO !!
+song name: The Ringer
+preview song: null
+album: Sicario II
+artist(s): YZTrax
+----------------------5
+!! SONG INFO !!
+song name: Leaving
+preview song: null
+album: Washed Up and Through the Ringer
+artist(s): Catch 22
+----------------------6
+!! SONG INFO !!
+song name: Looking for Trouble
+preview song: null
+album: Dead Ringer
+artist(s): The Whiskey Gentry
+----------------------7
+!! SONG INFO !!
+song name: The Ringer (Instrumental)
+preview song: null
+album: The Remake 2
+artist(s): Cardo Grandz
+----------------------8
+!! SONG INFO !!
+song name: The Ringer
+preview song: null
+album: The Ringer
+artist(s): Colyer
+----------------------9
+!! SONG INFO !!
+song name: American Pie
+preview song: null
+album: Washed Up and Through the Ringer
+artist(s): Catch 22
+----------------------10
+!! SONG INFO !!
+song name: Dead Ringer For Love
+preview song: null
+album: Jim Steinman's Bat Out Of Hell: The Musical (Original Cast Recording)
+artist(s): Dom Hartley-Harris
+----------------------11
+!! SONG INFO !!
+song name: The Ringer - Instrumental
+preview song: null
+album: The Ringer
+artist(s): DJ Boomin
+----------------------12
+!! SONG INFO !!
+song name: Peril Of The Bells (Dead Ringer)
+preview song: null
+album: Aria's Ascent - The Crypt of the Necrodancer Metal Soundtrack
+artist(s): Familyjules7x
+----------------------13
+!! SONG INFO !!
+song name: The Ringer
+preview song: null
+album: The Ringer
+artist(s): Coldharbour
+----------------------14
+!! SONG INFO !!
+song name: Telephone - Tom Neville's Ear Ringer Radio Remix
+preview song: null
+album: Telephone (The DJ Remixes)
+artist(s): Lady Gaga
+----------------------15
+!! SONG INFO !!
+song name: For Whom the Knell Tolls (Dead Ringer Remix)
+preview song: null
+album: Crypt of the Necrodancer: Overclocked
+artist(s): Timaeus222
+----------------------16
+!! SONG INFO !!
+song name: The One
+preview song: null
+album: The One
+artist(s): BlakeTheAlien
+----------------------17
+!! SONG INFO !!
+song name: Dead Ringer
+preview song: null
+album: Dead Ringer
+artist(s): The Whiskey Gentry
+----------------------18
+!! SONG INFO !!
+song name: Dead Ringer for Love (with Cher)
+preview song: null
+album: The Essential Meat Loaf
+artist(s): Meat Loaf
+----------------------19
+!! SONG INFO !!
+song name: Telephone - Tom Neville’s Ear Ringer Remix
+preview song: null
+album: Telephone (The Remixes, All Partners Version)
+artist(s): Lady Gaga
+----------------------0
+!! SONG INFO !!
+song name: The Ringer
+preview song: null
+album: Kamikaze
+artist(s): Eminem
+----------------------1
+!! SONG INFO !!
+song name: Ringer
+preview song: null
+album: Bed of Liars
+artist(s): The Unlikely Candidates
+----------------------2
+!! SONG INFO !!
+song name: The Ringer
+preview song: null
+album: Kamikaze
+artist(s): Eminem
+----------------------3
+!! SONG INFO !!
+song name: Ringer
+preview song: null
+album: Before the Babies
+artist(s): Cheats
+----------------------4
+!! SONG INFO !!
+song name: The Ringer
+preview song: null
+album: Sicario II
+artist(s): YZTrax
+----------------------5
+!! SONG INFO !!
+song name: Leaving
+preview song: null
+album: Washed Up and Through the Ringer
+artist(s): Catch 22
+----------------------6
+!! SONG INFO !!
+song name: Looking for Trouble
+preview song: null
+album: Dead Ringer
+artist(s): The Whiskey Gentry
+----------------------7
+!! SONG INFO !!
+song name: The Ringer (Instrumental)
+preview song: null
+album: The Remake 2
+artist(s): Cardo Grandz
+----------------------8
+!! SONG INFO !!
+song name: The Ringer
+preview song: null
+album: The Ringer
+artist(s): Colyer
+----------------------9
+!! SONG INFO !!
+song name: American Pie
+preview song: null
+album: Washed Up and Through the Ringer
+artist(s): Catch 22
+----------------------10
+!! SONG INFO !!
+song name: Dead Ringer For Love
+preview song: null
+album: Jim Steinman's Bat Out Of Hell: The Musical (Original Cast Recording)
+artist(s): Dom Hartley-Harris
+----------------------11
+!! SONG INFO !!
+song name: The Ringer - Instrumental
+preview song: null
+album: The Ringer
+artist(s): DJ Boomin
+----------------------12
+!! SONG INFO !!
+song name: Peril Of The Bells (Dead Ringer)
+preview song: null
+album: Aria's Ascent - The Crypt of the Necrodancer Metal Soundtrack
+artist(s): Familyjules7x
+----------------------13
+!! SONG INFO !!
+song name: The Ringer
+preview song: null
+album: The Ringer
+artist(s): Coldharbour
+----------------------14
+!! SONG INFO !!
+song name: Telephone - Tom Neville's Ear Ringer Radio Remix
+preview song: null
+album: Telephone (The DJ Remixes)
+artist(s): Lady Gaga
+----------------------15
+!! SONG INFO !!
+song name: For Whom the Knell Tolls (Dead Ringer Remix)
+preview song: null
+album: Crypt of the Necrodancer: Overclocked
+artist(s): Timaeus222
+----------------------16
+!! SONG INFO !!
+song name: The One
+preview song: null
+album: The One
+artist(s): BlakeTheAlien
+----------------------17
+!! SONG INFO !!
+song name: Dead Ringer
+preview song: null
+album: Dead Ringer
+artist(s): The Whiskey Gentry
+----------------------18
+!! SONG INFO !!
+song name: Dead Ringer for Love (with Cher)
+preview song: null
+album: The Essential Meat Loaf
+artist(s): Meat Loaf
+----------------------19
+!! SONG INFO !!
+song name: Telephone - Tom Neville’s Ear Ringer Remix
+preview song: null
+album: Telephone (The Remixes, All Partners Version)
+artist(s): Lady Gaga
 ----------------------
